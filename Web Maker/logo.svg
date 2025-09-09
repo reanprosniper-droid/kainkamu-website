@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <!-- Logo Icon -->
+  <g transform="translate(10, 10)">
+    <!-- Orange geometric pattern -->
+    <rect x="0" y="0" width="60" height="60" fill="#ff5722" rx="4"/>
+    
+    <!-- White geometric shapes inside -->
+    <polygon points="8,8 28,8 28,28 8,28" fill="white"/>
+    <polygon points="32,8 52,8 52,28 32,28" fill="white"/>
+    <polygon points="8,32 28,32 28,52 8,52" fill="white"/>
+    <polygon points="32,32 52,32 52,52 32,52" fill="white"/>
+    
+    <!-- Orange overlay pattern -->
+    <polygon points="15,15 45,15 30,30" fill="#ff5722"/>
+    <polygon points="15,45 45,45 30,30" fill="#ff5722"/>
+    <polygon points="15,15 15,45 30,30" fill="#ff5722"/>
+    <polygon points="45,15 45,45 30,30" fill="#ff5722"/>
+    
+    <!-- Central diamond -->
+    <polygon points="30,20 40,30 30,40 20,30" fill="white"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="80" y="35" font-family="Poppins, sans-serif" font-size="18" font-weight="300" fill="#4a3728">kain</text>
+  <text x="80" y="55" font-family="Poppins, sans-serif" font-size="18" font-weight="600" fill="#4a3728">kamu</text>
+</svg>
